@@ -1,0 +1,9 @@
+0.1.20080216:
+
+  * AR PL UKai currently has less glyphs than AR PL Uming.
+  * AR PL UKai has some buggy splines, some software may choke on that.
+  * Only two glyphs available with different shapes for different flavors.
+    Please do not report bugs against this feature! This is work in progress
+    and takes a lot of time!
+  * Font format changed to TrueType Collection. As a result TeX users will 
+    encounter trouble using this font. Watch out for updates on this matter!

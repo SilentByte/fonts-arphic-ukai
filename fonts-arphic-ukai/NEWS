@@ -1,0 +1,16 @@
+0.1.20080216:
+
+  * This release comes as TrueType Collection with 4 font flavors:
+    * AR PL UKai CN: glyph shapes according to GB18030-2000
+    * AR PL UKai HK: glyph shapes according to the Ming-Uni reference font
+      and HKSCS printed material published by the HKSAR government
+    * AR PL UKai TW: glyph styles according to CNS11643
+    * AR PL UKai TW MBE: like "AR PL UKai TW" plus MBE glyph shapes in the 
+      Bopomofo Extended block used for Minnan and Hakka
+  * For now, variants are only available for U+4EE4 and U+9AA8 as proof of
+    concept. All other glyphs have the same style throughout all flavors.
+
+  * Please do not report bugs concerning "wrong" glyph shapes! This is work 
+    in progress and will be improved over time.
+  
+  * For details and other changes, please see the FONTLOG.

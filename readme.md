@@ -1,5 +1,7 @@
+
 Arphic AR PL UKai Font
 ======================
+
 The repository contains a large number of chinese characters in SVG format based on the font package ‘AR PL UKai’, which is also being distributed with this project.
 
 Origin: http://packages.ubuntu.com/hu/source/precise/fonts-arphic-ukai
@@ -8,7 +10,6 @@ Origin: http://packages.ubuntu.com/hu/source/precise/fonts-arphic-ukai
 
 ## License
 
-````
 ARPHIC PUBLIC LICENSE
 
 Copyright (C) 1999 Arphic Technology Co., Ltd.
@@ -68,4 +69,3 @@ Legal Terms
 8. DAMAGES WAIVER
    UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, IN NO EVENT WILL ANY COPYRIGHTT HOLDERS, OR OTHER PARTIES WHO MAY COPY, MODIFY OR REDISTRIBUTE THE FONT AS PERMITTED ABOVE, BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE FONT (INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA OR PROFITS; OR BUSINESS INTERRUPTION), EVEN IF SUCH HOLDERS OR OTHER PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-````

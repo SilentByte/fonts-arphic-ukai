@@ -1,0 +1,13 @@
+!!! PLEASE USE FONT PACKAGES PROVIDED BY YOUR DISTRIBUTION IF AVAILABLE!!!	
+
+For all other cases:
+
+To make the font system wide available, do the following steps as root or 
+with sudo:
+  * mkdir /usr/share/fonts/truetype/ukai
+  * cp *.ttc fonts.* /usr/share/fonts/truetype/ukai
+  * cp *.conf /etc/fonts/conf.avail/
+  * cd /etc/fonts/conf.d
+  * ln -s ../conf.avail/*-ttf-arphic-ukai-*.conf .
+  * fc-cache -fv
+  * xset fp rehash

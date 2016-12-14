@@ -1,0 +1,4 @@
+0.1.20080216:
+
+  * add more glyphs, so that the same codepoints like in Uming are covered.
+  * debug intersecting splines
